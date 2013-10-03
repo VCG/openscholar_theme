@@ -1,0 +1,8 @@
+name = vcg
+description = v0.1
+module = hwpi_classic
+screenshot = screenshot.png
+
+css[] = css/hwpi_classic.css
+css[] = css/hwpi_classic.layout.css
+css[] = css/responsive.classic.css
