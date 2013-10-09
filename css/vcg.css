@@ -103,9 +103,9 @@ h1.node-title,
 }
 
 h1#page-title {
-	font-size: 80px;
+	font-size: 30px;
 	line-height: 1; /* Font size is larger than the default line-height, so will overlap if the title wraps */
-	margin: 15px 0 30px;
+	margin: 15px 0 15px;
 }
 
 .page-node h1#page-title {
@@ -228,7 +228,9 @@ a.rslides_nav.prev {
     background: url(/profiles/openscholar/themes/os_basetheme/images/ss_arrow.png) repeat scroll 2px 2px #284F76;
 }
 
-
+#boxes-box-site-info {
+    padding-top: 15px;
+}
 
 
 #layout_16_9_side .slide-copy h2,

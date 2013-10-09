@@ -1,0 +1,6 @@
+name = vcg2
+description = v0.1
+module = hwpi_classic
+screenshot = screenshot.png
+
+css[] = css/vcg.css
